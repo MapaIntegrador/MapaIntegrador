@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://v1vkaqgyft8s"
-path="res://.godot/imported/Sin_nombre.glb-432b26463cf525a233d381698c083109.scn"
+uid="uid://dtrgy3utyeohr"
+path="res://.godot/imported/PrototipoTablero.glb-a6cb612782fb58482df4156933fa8172.scn"
 
 [deps]
 
-source_file="res://escenas/Sin_nombre.glb"
-dest_files=["res://.godot/imported/Sin_nombre.glb-432b26463cf525a233d381698c083109.scn"]
+source_file="res://escenas/PrototipoTablero.glb"
+dest_files=["res://.godot/imported/PrototipoTablero.glb-a6cb612782fb58482df4156933fa8172.scn"]
 
 [params]
 

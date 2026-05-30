@@ -11,7 +11,6 @@ config_version=5
 [application]
 
 config/name="MapaIntegrador"
-run/main_scene="uid://v1vkaqgyft8s"
 config/features=PackedStringArray("4.6", "GL Compatibility")
 config/icon="res://models/icon.svg"
 
