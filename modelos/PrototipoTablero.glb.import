@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dtrgy3utyeohr"
-path="res://.godot/imported/PrototipoTablero.glb-a6cb612782fb58482df4156933fa8172.scn"
+path="res://.godot/imported/PrototipoTablero.glb-821d4f339a4a0ced522cba2572a22a56.scn"
 
 [deps]
 
-source_file="res://escenas/PrototipoTablero.glb"
-dest_files=["res://.godot/imported/PrototipoTablero.glb-a6cb612782fb58482df4156933fa8172.scn"]
+source_file="res://modelos/PrototipoTablero.glb"
+dest_files=["res://.godot/imported/PrototipoTablero.glb-821d4f339a4a0ced522cba2572a22a56.scn"]
 
 [params]
 
