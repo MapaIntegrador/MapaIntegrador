@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://dtrgy3utyeohr"
-path="res://.godot/imported/PrototipoTablero.glb-821d4f339a4a0ced522cba2572a22a56.scn"
+uid="uid://d08qsmdeyj6gk"
+path="res://.godot/imported/mapaCaminoFinal.glb-e773322eb0fc9fbf8b0b83dcab7efd8c.scn"
 
 [deps]
 
-source_file="res://modelos/PrototipoTablero.glb"
-dest_files=["res://.godot/imported/PrototipoTablero.glb-821d4f339a4a0ced522cba2572a22a56.scn"]
+source_file="res://modelos/mapaCaminoFinal.glb"
+dest_files=["res://.godot/imported/mapaCaminoFinal.glb-e773322eb0fc9fbf8b0b83dcab7efd8c.scn"]
 
 [params]
 
