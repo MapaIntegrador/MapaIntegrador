@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://cxbsmx1gayc2m"]
+
+[ext_resource type="PackedScene" uid="uid://bjmpoprol0e0m" path="res://modelos/MapaFinal.glb" id="1_5wp5j"]
+
+[node name="MapaFinal" unique_id=1862949870 instance=ExtResource("1_5wp5j")]

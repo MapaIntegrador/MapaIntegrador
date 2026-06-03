@@ -1,7 +1,0 @@
-[gd_scene format=3 uid="uid://ba24bk0m3y4yk"]
-
-[ext_resource type="PackedScene" uid="uid://dtrgy3utyeohr" path="res://modelos/PrototipoTablero.glb" id="1_xdbi6"]
-
-[node name="Tablero" type="Node3D" unique_id=1225304036]
-
-[node name="PrototipoTablero" parent="." unique_id=1193933176 instance=ExtResource("1_xdbi6")]
