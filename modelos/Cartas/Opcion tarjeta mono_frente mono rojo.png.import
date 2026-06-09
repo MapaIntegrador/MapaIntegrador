@@ -2,20 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cjxv6uhgbp7sf"
-path.s3tc="res://.godot/imported/Opcion tarjeta mono_atras.png-16d8f9df4c85f30da68ef64db7c537b9.s3tc.ctex"
+uid="uid://c5olbk2fc5qp1"
+path.s3tc="res://.godot/imported/Opcion tarjeta mono_frente mono rojo.png-74639ecdb7826f86fbf84a01c4110e61.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={
-"md5": "932a815fa02ee1efa0b8c0e8baa3ece4"
+"md5": "29fe8f84d5075ac874308ad363dfd059"
 }
 
 [deps]
 
-source_file="res://modelos/Opcion tarjeta mono_atras.png"
-dest_files=["res://.godot/imported/Opcion tarjeta mono_atras.png-16d8f9df4c85f30da68ef64db7c537b9.s3tc.ctex"]
+source_file="res://modelos/Cartas/Opcion tarjeta mono_frente mono rojo.png"
+dest_files=["res://.godot/imported/Opcion tarjeta mono_frente mono rojo.png-74639ecdb7826f86fbf84a01c4110e61.s3tc.ctex"]
 
 [params]
 

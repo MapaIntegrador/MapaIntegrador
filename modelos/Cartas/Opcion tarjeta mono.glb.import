@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://dq5py0kt4fjki"
-path="res://.godot/imported/Casas.glb-524d9f18319eb8b7dedb5222542869fe.scn"
+uid="uid://buvf7fkbkdlpv"
+path="res://.godot/imported/Opcion tarjeta mono.glb-826511f17a4af3bad92135f70248c371.scn"
 
 [deps]
 
-source_file="res://modelos/Casas.glb"
-dest_files=["res://.godot/imported/Casas.glb-524d9f18319eb8b7dedb5222542869fe.scn"]
+source_file="res://modelos/Cartas/Opcion tarjeta mono.glb"
+dest_files=["res://.godot/imported/Opcion tarjeta mono.glb-826511f17a4af3bad92135f70248c371.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bi1vytgpkx64u"
-path="res://.godot/imported/CasaV2.glb-dc1673c2d85db486b61892ca6594b97a.scn"
+path="res://.godot/imported/CasaV2.glb-a8faf1909a6b5a92b511f2b6604dc116.scn"
 
 [deps]
 
-source_file="res://modelos/CasaV2.glb"
-dest_files=["res://.godot/imported/CasaV2.glb-dc1673c2d85db486b61892ca6594b97a.scn"]
+source_file="res://modelos/Casas/CasaV2.glb"
+dest_files=["res://.godot/imported/CasaV2.glb-a8faf1909a6b5a92b511f2b6604dc116.scn"]
 
 [params]
 

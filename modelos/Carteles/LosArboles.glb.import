@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://0oj40cmg55no"
-path="res://.godot/imported/CasaV1.glb-72b652ecbcf1c5117885d2f9c4add0f6.scn"
+uid="uid://hyasd2ysj6rx"
+path="res://.godot/imported/LosArboles.glb-98642de2f24c9f81013b8ecfcdce728a.scn"
 
 [deps]
 
-source_file="res://modelos/CasaV1.glb"
-dest_files=["res://.godot/imported/CasaV1.glb-72b652ecbcf1c5117885d2f9c4add0f6.scn"]
+source_file="res://modelos/Carteles/LosArboles.glb"
+dest_files=["res://.godot/imported/LosArboles.glb-98642de2f24c9f81013b8ecfcdce728a.scn"]
 
 [params]
 
