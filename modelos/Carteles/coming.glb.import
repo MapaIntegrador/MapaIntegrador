@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://bnw7om8lsg5i3"
-path="res://.godot/imported/MapaFinalV1.glb-c61218ae3b48ed0e6ab8bb711c56c296.scn"
+uid="uid://p1nmqbim8yq6"
+path="res://.godot/imported/coming.glb-b74d9f029288da7f972f2515a9e98acd.scn"
 
 [deps]
 
-source_file="res://modelos/MapaFinalV1.glb"
-dest_files=["res://.godot/imported/MapaFinalV1.glb-c61218ae3b48ed0e6ab8bb711c56c296.scn"]
+source_file="res://modelos/Carteles/coming.glb"
+dest_files=["res://.godot/imported/coming.glb-b74d9f029288da7f972f2515a9e98acd.scn"]
 
 [params]
 

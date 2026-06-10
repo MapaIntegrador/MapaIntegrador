@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://bnw7om8lsg5i3"
-path="res://.godot/imported/MapaFinalV1.glb-c61218ae3b48ed0e6ab8bb711c56c296.scn"
+uid="uid://bduslb6glcjwx"
+path="res://.godot/imported/Llantaa.glb-c41610fd5ff7826909dcfd3c555ae43b.scn"
 
 [deps]
 
-source_file="res://modelos/MapaFinalV1.glb"
-dest_files=["res://.godot/imported/MapaFinalV1.glb-c61218ae3b48ed0e6ab8bb711c56c296.scn"]
+source_file="res://modelos/Llantaa.glb"
+dest_files=["res://.godot/imported/Llantaa.glb-c41610fd5ff7826909dcfd3c555ae43b.scn"]
 
 [params]
 
