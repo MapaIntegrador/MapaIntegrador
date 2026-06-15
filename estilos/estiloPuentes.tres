@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://oood05suxvb4"]
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_53lp5"]
+load_path = "res://.godot/imported/Bricks_22-512x512.png-8d3bca006fbc9a5dad08b3925a820f7c.s3tc.ctex"
+
+[resource]
+albedo_texture = SubResource("CompressedTexture2D_53lp5")
+uv1_scale = Vector3(30, 30, 30)
