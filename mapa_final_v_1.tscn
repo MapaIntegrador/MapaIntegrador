@@ -86,39 +86,39 @@ shader_parameter/wave_speed = 1.5
 
 [node name="MapaFinalV1" unique_id=5830018 instance=ExtResource("1_sdr0d")]
 
-[node name="TableroBase" parent="." index="0" unique_id=875958134]
+[node name="TableroBase" parent="." index="0" unique_id=94972501]
 surface_material_override/0 = SubResource("StandardMaterial3D_bsv6h")
 
-[node name="Agua" parent="." index="1" unique_id=1369881548]
+[node name="Agua" parent="." index="1" unique_id=940982111]
 transform = Transform3D(36, 0, 0, 0, 36, 0, 0, 0, 24, 0, 0.1687748, 0)
 visible = false
 
-[node name="Puente3P2" parent="." index="8" unique_id=1018291755]
+[node name="Puente3P2" parent="." index="8" unique_id=395464037]
 transform = Transform3D(0.04163556, 0.00094139774, -0.34152237, 0.0027637174, 0.13761744, 0.01756501, -0.05326137, 0.007876841, -0.26606393, 1.0707355, 3.7759185, 0.81905943)
 
-[node name="Puente3P1" parent="." index="9" unique_id=1002732923]
+[node name="Puente3P1" parent="." index="9" unique_id=372520809]
 transform = Transform3D(-0.04397193, 0.0055965073, 0.32883823, 0.005697441, 0.13733177, 0.008150695, 0.051107157, -0.010494651, 0.28201967, -1.2277033, 3.7781487, 1.7849464)
 
-[node name="Puente2P2" parent="." index="10" unique_id=1160967489]
+[node name="Puente2P2" parent="." index="10" unique_id=1126871546]
 transform = Transform3D(-0.06887941, 0.011549315, 0.06134671, 0.0059703896, 0.13738053, 0.005111859, 0.008571005, -0.0028824324, 0.4894417, -8.195762, 3.856567, 9.479974)
 surface_material_override/0 = ExtResource("3_dkyjh")
 
-[node name="Puente2P1" parent="." index="11" unique_id=2140548152]
+[node name="Puente2P1" parent="." index="11" unique_id=1974892340]
 transform = Transform3D(0.075930476, -0.0011422894, -0.10176505, -0.00044740757, 0.13813704, -0.03810696, -0.014915518, -0.009958626, -0.5169124, -5.044044, 3.819406, 8.532492)
 surface_material_override/0 = ExtResource("3_dkyjh")
 
-[node name="Puente1P2" parent="." index="12" unique_id=1174124907]
+[node name="Puente1P2" parent="." index="12" unique_id=1314247470]
 transform = Transform3D(-0.051053815, 0.0034424497, -0.28412935, -0.00052506203, 0.13768962, 0.020351123, -0.044397775, -0.0055868975, 0.32648492, -27.696798, 3.815693, 6.728607)
 surface_material_override/0 = ExtResource("3_dkyjh")
 
-[node name="Puente1P1" parent="." index="13" unique_id=16969343]
+[node name="Puente1P1" parent="." index="13" unique_id=2033560420]
 transform = Transform3D(0.054679528, -0.009002389, 0.25362334, 0.0053083664, 0.13742045, 0.0012600106, 0.0394956, -0.00600651, -0.3512974, -23.938992, 3.8541927, 7.3625193)
 surface_material_override/0 = SubResource("StandardMaterial3D_ga8o7")
 
-[node name="BordesRios" parent="." index="14" unique_id=113283243]
+[node name="BordesRios" parent="." index="14" unique_id=775189141]
 surface_material_override/0 = SubResource("StandardMaterial3D_5f4kb")
 
-[node name="Casillas" parent="." index="15" unique_id=1298593045]
+[node name="Casillas" parent="." index="15" unique_id=1323881322]
 transform = Transform3D(36, 0, 0, 0, 36, 0, 0, 0, 24, 0, 3.3556733, 0)
 surface_material_override/0 = SubResource("StandardMaterial3D_23j8k")
 
