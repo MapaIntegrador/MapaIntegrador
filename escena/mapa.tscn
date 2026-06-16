@@ -15,6 +15,11 @@
 [ext_resource type="Texture2D" uid="uid://cnhglxbjnpwjh" path="res://texturas/TexturaAcantilado.png" id="13_phuot"]
 [ext_resource type="Texture2D" uid="uid://dc22qj13xrhkq" path="res://texturas/TexturaMontañas.png" id="14_bq4mq"]
 [ext_resource type="Texture2D" uid="uid://bpgqurfkqga5s" path="res://texturas/TexturaArena.png" id="15_53scr"]
+[ext_resource type="PackedScene" uid="uid://b0sun3je0idmp" path="res://modelos/Arboles/pino_2.glb" id="16_dw8hn"]
+[ext_resource type="PackedScene" uid="uid://c5yj44beybbxk" path="res://modelos/EscuelaCorrectaFinal.glb" id="17_e88jp"]
+[ext_resource type="PackedScene" uid="uid://diih20lpldy0p" path="res://modelos/Carteles/Rotulo_Escuela.glb" id="18_idegi"]
+[ext_resource type="PackedScene" uid="uid://2nr6fl3stp6v" path="res://modelos/Carteles/Semaforo.glb" id="19_xptg1"]
+[ext_resource type="PackedScene" uid="uid://cpjfoyh5a5amq" path="res://modelos/Arbustos/ArbustoRedondo.glb" id="20_k4lq5"]
 
 [sub_resource type="FastNoiseLite" id="FastNoiseLite_u4lkv"]
 
@@ -189,3 +194,33 @@ surface_material_override/0 = SubResource("StandardMaterial3D_o42ix")
 
 [node name="DirectionalLight3D" type="DirectionalLight3D" parent="." index="23" unique_id=252261946]
 transform = Transform3D(1, 0, 0, 0, 0.49999997, 0.86602545, 0, -0.86602545, 0.49999997, 0, 0, 0)
+
+[node name="pino_2" parent="." index="24" unique_id=1365135052 instance=ExtResource("16_dw8hn")]
+transform = Transform3D(0.9993136, 0, 0.03704486, 0, 1, 0, -0.03704486, 0, 0.9993136, -34.720963, 5.33042, 9.555561)
+
+[node name="pino_3" parent="." index="25" unique_id=278791072 instance=ExtResource("16_dw8hn")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -32.669174, 5.3394904, 12.62153)
+
+[node name="EscuelaCorrectaFinal" parent="." index="26" unique_id=1064543046 instance=ExtResource("17_e88jp")]
+transform = Transform3D(-0.004817034, 0, -0.9999884, 0, 1.3, 0, 0.9999884, 0, -0.004817034, -28.810392, 4.9987392, 4.788726)
+
+[node name="Rotulo_Escuela" parent="." index="27" unique_id=343321487 instance=ExtResource("18_idegi")]
+transform = Transform3D(0.042038918, 0, 0.4982296, 0, 0.585, 0, -0.4982296, 0, 0.042038918, -27.260359, 5.4127684, 17.058662)
+
+[node name="Semaforo" parent="." index="28" unique_id=1754564710 instance=ExtResource("19_xptg1")]
+transform = Transform3D(0.023278678, 0, 0.19864063, 0, 0.2, 0, -0.19864063, 0, 0.023278678, -28.751835, 5.434801, 17.193638)
+
+[node name="ArbustoRedondo" parent="." index="29" unique_id=1638586768 instance=ExtResource("20_k4lq5")]
+transform = Transform3D(0.6, 0, 0, 0, 0.6, 0, 0, 0, 0.6, -30.382708, 5.563415, 12.885799)
+
+[node name="ArbustoRedondo3" parent="." index="30" unique_id=53868844 instance=ExtResource("20_k4lq5")]
+transform = Transform3D(0.6, 0, 0, 0, 0.6, 0, 0, 0, 0.6, -29.835007, 5.563415, 13.173598)
+
+[node name="ArbustoRedondo2" parent="." index="31" unique_id=937678912 instance=ExtResource("20_k4lq5")]
+transform = Transform3D(0.6, 0, 0, 0, 0.6, 0, 0, 0, 0.6, -29.53155, 5.631989, 12.704841)
+
+[node name="ArbustoRedondo4" parent="." index="32" unique_id=2079781225 instance=ExtResource("20_k4lq5")]
+transform = Transform3D(0.6, 0, 0, 0, 0.6, 0, 0, 0, 0.6, -29.938694, 5.631989, 12.30605)
+
+[node name="ArbustoRedondo5" parent="." index="33" unique_id=201158629 instance=ExtResource("20_k4lq5")]
+transform = Transform3D(0.6, 0, 0, 0, 0.6, 0, 0, 0, 0.6, -30.483414, 5.631989, 12.426895)
