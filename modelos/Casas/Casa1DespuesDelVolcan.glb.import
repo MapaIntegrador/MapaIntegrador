@@ -3,12 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://ciylghwotjlqu"
-valid=false
+uid="uid://tyjwsrcu68yf"
+path="res://.godot/imported/Casa1DespuesDelVolcan.glb-9b774d74ad65f480f31cbba406f89998.scn"
 
 [deps]
 
-source_file="res://modelos/Arboles/troncoOscuroPunteagudo.glb"
+source_file="res://modelos/Casas/Casa1DespuesDelVolcan.glb"
+dest_files=["res://.godot/imported/Casa1DespuesDelVolcan.glb-9b774d74ad65f480f31cbba406f89998.scn"]
 
 [params]
 

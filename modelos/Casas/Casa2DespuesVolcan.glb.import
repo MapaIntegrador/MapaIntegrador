@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://bl55gue15pj0a"
-path="res://.godot/imported/tronco.glb-ae2ad594ea6ad78111abdf905cbaf069.scn"
+uid="uid://cce67kctnhjxr"
+path="res://.godot/imported/Casa2DespuesVolcan.glb-23044b00fc1ad71d6aca5970c3dc1e61.scn"
 
 [deps]
 
-source_file="res://modelos/tronco.glb"
-dest_files=["res://.godot/imported/tronco.glb-ae2ad594ea6ad78111abdf905cbaf069.scn"]
+source_file="res://modelos/Casas/Casa2DespuesVolcan.glb"
+dest_files=["res://.godot/imported/Casa2DespuesVolcan.glb-23044b00fc1ad71d6aca5970c3dc1e61.scn"]
 
 [params]
 
