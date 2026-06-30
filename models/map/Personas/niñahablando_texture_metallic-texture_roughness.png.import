@@ -2,20 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cdiad0nsj3ggn"
-path.s3tc="res://.godot/imported/montaña2_Mascara_Nieve.png-d7a34515f8e5465e59951dbfa087550a.s3tc.ctex"
+uid="uid://jsqgv2u0ato3"
+path.s3tc="res://.godot/imported/niñahablando_texture_metallic-texture_roughness.png-ac078f74d09c59ebe9d2d7b9428a2fb8.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={
-"md5": "b4ea572327d233f81c982dda444d5c0c"
+"md5": "b767296f8a06dc5c8e558ec60f757c78"
 }
 
 [deps]
 
-source_file="res://models/map/Montañas/montaña2_Mascara_Nieve.png"
-dest_files=["res://.godot/imported/montaña2_Mascara_Nieve.png-d7a34515f8e5465e59951dbfa087550a.s3tc.ctex"]
+source_file="res://models/map/Personas/niñahablando_texture_metallic-texture_roughness.png"
+dest_files=["res://.godot/imported/niñahablando_texture_metallic-texture_roughness.png-ac078f74d09c59ebe9d2d7b9428a2fb8.s3tc.ctex"]
 
 [params]
 

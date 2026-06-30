@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://dk7rnb3gpgojr"
-path="res://.godot/imported/montaña2.glb-28828bf442913c39636add011819efb6.scn"
+uid="uid://bbqwl5xinvwjr"
+path="res://.godot/imported/niñahablando.glb-9cdf456023b52071330e630058034a91.scn"
 
 [deps]
 
-source_file="res://models/map/Montañas/montaña2.glb"
-dest_files=["res://.godot/imported/montaña2.glb-28828bf442913c39636add011819efb6.scn"]
+source_file="res://models/map/Personas/niñahablando.glb"
+dest_files=["res://.godot/imported/niñahablando.glb-9cdf456023b52071330e630058034a91.scn"]
 
 [params]
 

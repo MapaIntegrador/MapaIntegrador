@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://dk7rnb3gpgojr"
-path="res://.godot/imported/montaña2.glb-28828bf442913c39636add011819efb6.scn"
+uid="uid://mf1dsx1qxyp5"
+path="res://.godot/imported/niñassilladerruedas.glb-ed3948a18b9cc4ff9a0311d8df8ae03c.scn"
 
 [deps]
 
-source_file="res://models/map/Montañas/montaña2.glb"
-dest_files=["res://.godot/imported/montaña2.glb-28828bf442913c39636add011819efb6.scn"]
+source_file="res://models/map/Personas/niñassilladerruedas.glb"
+dest_files=["res://.godot/imported/niñassilladerruedas.glb-ed3948a18b9cc4ff9a0311d8df8ae03c.scn"]
 
 [params]
 
