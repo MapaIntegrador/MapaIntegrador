@@ -2,20 +2,17 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bpttwk3oii08v"
-path.s3tc="res://.godot/imported/montaña2_Montaña_Textura_Final.png-e74465c82c9a79dc25c677bccf2b3cdd.s3tc.ctex"
+uid="uid://c1y1y28sflw2a"
+path.s3tc="res://.godot/imported/CespedMontaña.png-68e8d20c3a171b7cfeeb036220c92431.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
-generator_parameters={
-"md5": "220475434ecb33ed2d687aa0f7cbff36"
-}
 
 [deps]
 
-source_file="res://models/map/Montañas/montaña2_Montaña_Textura_Final.png"
-dest_files=["res://.godot/imported/montaña2_Montaña_Textura_Final.png-e74465c82c9a79dc25c677bccf2b3cdd.s3tc.ctex"]
+source_file="res://images/texturas/CespedMontaña.png"
+dest_files=["res://.godot/imported/CespedMontaña.png-68e8d20c3a171b7cfeeb036220c92431.s3tc.ctex"]
 
 [params]
 
