@@ -111,6 +111,8 @@
 [ext_resource type="PackedScene" uid="uid://mf1dsx1qxyp5" path="res://models/map/Personas/niñassilladerruedas.glb" id="109_psunb"]
 [ext_resource type="PackedScene" uid="uid://cxgjdoe710i4l" path="res://models/map/Personas/NiñoEscuela1.glb" id="110_sa8fc"]
 [ext_resource type="PackedScene" uid="uid://ci13q251npbix" path="res://models/map/Personas/NiñoEscuela2.glb" id="111_vi07k"]
+[ext_resource type="PackedScene" uid="uid://bb6okym5eehqf" path="res://models/map/Personas/niñogorra.glb" id="112_yx735"]
+[ext_resource type="PackedScene" uid="uid://dgxukbunhue28" path="res://models/map/Personas/niñohablando.glb" id="113_trti0"]
 
 [sub_resource type="FastNoiseLite" id="FastNoiseLite_26ewg"]
 
@@ -738,10 +740,10 @@ transform = Transform3D(-0.75919604, 0, 0.43502456, 0, 0.875, 0, -0.43502456, 0,
 transform = Transform3D(-0.8623201, 0, 0.14842148, 0, 0.875, 0, -0.14842148, 0, -0.8623201, -12.656043, 6.687057, 6.866333)
 
 [node name="NiñaC72" parent="." index="174" unique_id=326581782 instance=ExtResource("102_s2abe")]
-transform = Transform3D(-0.09507309, 0, 0.6783702, 0, 0.685, 0, -0.6783702, 0, -0.09507309, 27.493803, 3.5250688, 20.609995)
+transform = Transform3D(-0.09507309, 0, 0.6783702, 0, 0.685, 0, -0.6783702, 0, -0.09507309, 28.480196, 3.5250688, 20.609995)
 
 [node name="NiñoC72" parent="." index="175" unique_id=1986908890 instance=ExtResource("103_2wb8k")]
-transform = Transform3D(-0.21569768, 0, -0.6501534, 0, 0.685, 0, 0.6501534, 0, -0.21569768, 28.41681, 3.5604296, 20.733532)
+transform = Transform3D(-0.21569768, 0, -0.6501534, 0, 0.685, 0, 0.6501534, 0, -0.21569768, 29.403202, 3.5604296, 20.733532)
 
 [node name="cesped_grande" parent="." index="176" unique_id=2128067164 instance=ExtResource("104_15jl1")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -11.869673, 5.2270126, -0.8775824)
@@ -810,10 +812,16 @@ transform = Transform3D(0.425, 0, 0, 0, 0.425, 0, 0, 0, 0.425, -24.567379, 5.378
 transform = Transform3D(-0.25150707, 0, -0.8067027, 0, 0.845, 0, 0.8067027, 0, -0.25150707, -15.337422, 5.342816, -1.8637462)
 
 [node name="niñassilladerruedas" parent="." index="198" unique_id=2121936095 instance=ExtResource("109_psunb")]
-transform = Transform3D(-0.04402684, 0, -0.6936041, 0, 0.695, 0, 0.6936041, 0, -0.04402684, -16.621777, 5.3837724, 20.023365)
+transform = Transform3D(-0.040796094, 0, -0.6427065, 0, 0.644, 0, 0.6427065, 0, -0.040796094, -16.621777, 5.3837724, 20.023365)
 
 [node name="NiñoEscuela1" parent="." index="199" unique_id=440972957 instance=ExtResource("110_sa8fc")]
 transform = Transform3D(0.38818446, 0, -0.17302573, 0, 0.42500007, 0, 0.17302573, 0, 0.38818446, -24.076046, 5.342359, 20.67808)
 
 [node name="NiñoEscuela2" parent="." index="200" unique_id=1286676654 instance=ExtResource("111_vi07k")]
 transform = Transform3D(0.34, 0, 0, 0, 0.34, 0, 0, 0, 0.34, -24.504694, 5.360877, 20.815617)
+
+[node name="niñogorra" parent="." index="201" unique_id=1279101841 instance=ExtResource("112_yx735")]
+transform = Transform3D(-0.026240867, 0, -0.5203388, 0, 0.521, 0, 0.5203388, 0, -0.026240867, -17.473892, 5.382174, 19.691471)
+
+[node name="niñohablando" parent="." index="202" unique_id=1339993121 instance=ExtResource("113_trti0")]
+transform = Transform3D(0.820089, 0, 0.31914586, 0, 0.88, 0, -0.31914586, 0, 0.820089, -17.1676, 5.3157587, -4.1601124)
