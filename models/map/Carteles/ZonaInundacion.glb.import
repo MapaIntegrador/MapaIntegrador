@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://umhrucf20do3"
-path="res://.godot/imported/ZonaIndundacion.glb-88c5a2245cf8efa640272d8e8e6380b7.scn"
+uid="uid://dchfy5t740yub"
+path="res://.godot/imported/ZonaInundacion.glb-5b5bda101f038fa05f81bd28e4f7b800.scn"
 
 [deps]
 
-source_file="res://models/map/Carteles/ZonaIndundacion.glb"
-dest_files=["res://.godot/imported/ZonaIndundacion.glb-88c5a2245cf8efa640272d8e8e6380b7.scn"]
+source_file="res://models/map/Carteles/ZonaInundacion.glb"
+dest_files=["res://.godot/imported/ZonaInundacion.glb-5b5bda101f038fa05f81bd28e4f7b800.scn"]
 
 [params]
 
