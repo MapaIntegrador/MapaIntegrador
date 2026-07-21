@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://umhrucf20do3"
-path="res://.godot/imported/ZonaIndundacion.glb-88c5a2245cf8efa640272d8e8e6380b7.scn"
+uid="uid://bg3ywgunyrk5a"
+path="res://.godot/imported/niñayabuela.glb-cace49947492472130f5ffba22b7bff3.scn"
 
 [deps]
 
-source_file="res://models/map/Carteles/ZonaIndundacion.glb"
-dest_files=["res://.godot/imported/ZonaIndundacion.glb-88c5a2245cf8efa640272d8e8e6380b7.scn"]
+source_file="res://models/map/Personas/niñayabuela.glb"
+dest_files=["res://.godot/imported/niñayabuela.glb-cace49947492472130f5ffba22b7bff3.scn"]
 
 [params]
 
