@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://dhkgs1kh8pq2n"
-path="res://.godot/imported/Mapa.glb-b2ee09231239d2b69151ea836ffadeb8.scn"
+uid="uid://bjwpbfnkq7jwr"
+path="res://.godot/imported/arbustoPeqVarios5.glb-b2d1ed1b5c66deed675cc9b4c9c92671.scn"
 
 [deps]
 
-source_file="res://models/map/Mapa.glb"
-dest_files=["res://.godot/imported/Mapa.glb-b2ee09231239d2b69151ea836ffadeb8.scn"]
+source_file="res://models/map/Arbustos/low poly/arbustoPeqVarios5.glb"
+dest_files=["res://.godot/imported/arbustoPeqVarios5.glb-b2d1ed1b5c66deed675cc9b4c9c92671.scn"]
 
 [params]
 
