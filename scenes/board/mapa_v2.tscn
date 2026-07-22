@@ -240,9 +240,11 @@ shader_parameter/wave_speed = 1.5
 surface_material_override/0 = SubResource("StandardMaterial3D_x5s45")
 
 [node name="Puente6P2" parent="." index="1" unique_id=47986104]
+transform = Transform3D(0.056249935, -0.00383479, -0.1064995, 0.0012110155, 0.13769136, -0.010807761, -0.016499575, -0.0029673676, -0.36386862, 33.407898, 3.858209, 11.911927)
 surface_material_override/0 = ExtResource("4_vsy0p")
 
 [node name="Puente6P1" parent="." index="2" unique_id=512983039]
+transform = Transform3D(-0.053247545, 0.0025551568, 0.12471942, 0.0007140133, 0.1376873, -0.0067198523, 0.020336103, 0.0018560713, 0.32679817, 30.714325, 3.827947, 12.754179)
 surface_material_override/0 = ExtResource("4_vsy0p")
 
 [node name="Puente4P2" parent="." index="3" unique_id=69958981]
@@ -903,10 +905,10 @@ transform = Transform3D(-0.98373926, 0.1784266, -0.020516962, 0.1743822, 0.92155
 transform = Transform3D(0.46859616, 0.005348837, 0.70914686, -0.021553278, 0.8496907, 0.007833258, -0.7088394, -0.022300083, 0.46856123, -31.276228, 4.9960613, 6.5345073)
 
 [node name="Tronco" parent="." index="222" unique_id=1887926547 instance=ExtResource("126_274kg")]
-transform = Transform3D(-0.18536654, 0, -0.7060731, 0, 0.73, 0, 0.7060731, 0, -0.18536654, 6.338724, 5.0607505, 0.17472965)
+transform = Transform3D(-0.18536654, 0, -0.7060731, 0, 0.73, 0, 0.7060731, 0, -0.18536654, 6.4743958, 5.0607505, 0.12613684)
 
 [node name="LlantaPintada4" parent="." index="223" unique_id=119420802 instance=ExtResource("61_uflgr")]
-transform = Transform3D(0.15211368, -0.15917389, 0.3809529, 0.024259562, 0.40873024, 0.16109334, -0.4121564, -0.034688074, 0.15007943, 6.8800893, 4.788988, 0.09030354)
+transform = Transform3D(0.15211368, -0.15917389, 0.3809529, 0.024259562, 0.40873024, 0.16109334, -0.4121564, -0.034688074, 0.15007943, 7.015761, 4.788988, 0.041710734)
 
 [node name="CasaCasilla69" parent="." index="224" unique_id=2021905546 instance=ExtResource("127_nol6v")]
 transform = Transform3D(-0.36864373, 0, -0.92957073, 0, 1.135, 0, 0.92957073, 0, -0.36864373, 23.972904, 3.537387, 10.47048)
