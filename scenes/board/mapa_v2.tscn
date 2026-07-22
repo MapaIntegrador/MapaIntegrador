@@ -236,45 +236,45 @@ shader_parameter/wave_speed = 1.5
 
 [node name="MapaV2" unique_id=435561448 instance=ExtResource("1_xf8nv")]
 
-[node name="TableroBase" parent="." index="0" unique_id=92542498]
+[node name="TableroBase" parent="." index="0" unique_id=857388683]
 surface_material_override/0 = SubResource("StandardMaterial3D_x5s45")
 
-[node name="Puente6P2" parent="." index="1" unique_id=47986104]
+[node name="Puente6P2" parent="." index="1" unique_id=2086582049]
 transform = Transform3D(0.056249935, -0.00383479, -0.1064995, 0.0012110155, 0.13769136, -0.010807761, -0.016499575, -0.0029673676, -0.36386862, 33.407898, 3.858209, 11.911927)
 surface_material_override/0 = ExtResource("4_vsy0p")
 
-[node name="Puente6P1" parent="." index="2" unique_id=512983039]
+[node name="Puente6P1" parent="." index="2" unique_id=550332252]
 transform = Transform3D(-0.053247545, 0.0025551568, 0.12471942, 0.0007140133, 0.1376873, -0.0067198523, 0.020336103, 0.0018560713, 0.32679817, 30.714325, 3.827947, 12.754179)
 surface_material_override/0 = ExtResource("4_vsy0p")
 
-[node name="Puente4P2" parent="." index="3" unique_id=69958981]
+[node name="Puente4P2" parent="." index="3" unique_id=246194335]
 surface_material_override/0 = ExtResource("4_vsy0p")
 
-[node name="Puente4P1" parent="." index="4" unique_id=1455167062]
+[node name="Puente4P1" parent="." index="4" unique_id=1488497170]
 surface_material_override/0 = ExtResource("4_vsy0p")
 
-[node name="Puente3P2" parent="." index="5" unique_id=1121008558]
+[node name="Puente3P2" parent="." index="5" unique_id=1583545805]
 surface_material_override/0 = ExtResource("4_vsy0p")
 
-[node name="Puente3P1" parent="." index="6" unique_id=330749717]
+[node name="Puente3P1" parent="." index="6" unique_id=193296928]
 surface_material_override/0 = ExtResource("4_vsy0p")
 
-[node name="Puente2P2" parent="." index="7" unique_id=2097267021]
+[node name="Puente2P2" parent="." index="7" unique_id=1221079977]
 surface_material_override/0 = ExtResource("4_vsy0p")
 
-[node name="Puente2P1" parent="." index="8" unique_id=48402771]
+[node name="Puente2P1" parent="." index="8" unique_id=61499340]
 surface_material_override/0 = ExtResource("4_vsy0p")
 
-[node name="Puente1P2" parent="." index="9" unique_id=1047675322]
+[node name="Puente1P2" parent="." index="9" unique_id=1683614856]
 surface_material_override/0 = ExtResource("4_vsy0p")
 
-[node name="Puente1P1" parent="." index="10" unique_id=905093068]
+[node name="Puente1P1" parent="." index="10" unique_id=953247476]
 surface_material_override/0 = ExtResource("4_vsy0p")
 
-[node name="BordesRios" parent="." index="11" unique_id=968110541]
+[node name="BordesRios" parent="." index="11" unique_id=1566973484]
 surface_material_override/0 = SubResource("StandardMaterial3D_xf8nv")
 
-[node name="Casillas" parent="." index="12" unique_id=801296119]
+[node name="Casillas" parent="." index="12" unique_id=1356666657]
 transform = Transform3D(36, 0, 0, 0, 36, 0, 0, 0, 24, 0, 5.1687937, 0)
 surface_material_override/0 = SubResource("StandardMaterial3D_ijd26")
 surface_material_override/1 = SubResource("StandardMaterial3D_ngcet")
@@ -286,25 +286,25 @@ surface_material_override/6 = SubResource("StandardMaterial3D_dyu37")
 surface_material_override/7 = SubResource("StandardMaterial3D_ie3u6")
 surface_material_override/8 = SubResource("StandardMaterial3D_yhwlt")
 
-[node name="BordesRios_001" parent="." index="13" unique_id=1929258639]
+[node name="BordesRios_001" parent="." index="13" unique_id=1129940052]
 surface_material_override/0 = SubResource("StandardMaterial3D_s33kv")
 
-[node name="BordeAcantilado" parent="." index="14" unique_id=1561182611]
+[node name="BordeAcantilado" parent="." index="14" unique_id=874986049]
 surface_material_override/0 = SubResource("StandardMaterial3D_m1gho")
 
-[node name="Montaña1" parent="." index="15" unique_id=1885195905]
+[node name="Montaña1" parent="." index="15" unique_id=1706647793]
 surface_material_override/0 = SubResource("StandardMaterial3D_o6ptv")
 
-[node name="BordePlaya" parent="." index="17" unique_id=1182331986]
+[node name="BordePlaya" parent="." index="17" unique_id=2083805584]
 surface_material_override/0 = SubResource("StandardMaterial3D_vbgb2")
 
-[node name="TextoCasillas" parent="." index="20" unique_id=707108676]
+[node name="TextoCasillas" parent="." index="19" unique_id=2105204152]
 transform = Transform3D(0.56158936, 0, -0.035817888, 0, 1, 0, 0.050168294, 0, 0.4009493, -31.065735, 5.4367204, 14.656172)
 
-[node name="AguaArriba" parent="." index="21" unique_id=1873161515]
+[node name="AguaArriba" parent="." index="20" unique_id=490930190]
 surface_material_override/0 = SubResource("ShaderMaterial_y6j3d")
 
-[node name="AguaAbajo" parent="." index="22" unique_id=1543446584]
+[node name="AguaAbajo" parent="." index="21" unique_id=2126477649]
 surface_material_override/0 = SubResource("ShaderMaterial_teqbp")
 
 [node name="DirectionalLight3D" type="DirectionalLight3D" parent="." index="23" unique_id=528588293]
@@ -1062,3 +1062,5 @@ transform = Transform3D(-0.11624092, 0, 0.08563502, 0, 0.33199996, 0, -0.0254764
 
 [node name="EstandarteEscuela" parent="." index="274" unique_id=978057723 instance=ExtResource("137_ae5kf")]
 transform = Transform3D(0.85, 0, 0, 0, 0.85, 0, 0, 0, 0.85, -24.286678, 5.402851, 12.158003)
+
+[node name="Node3D" type="Node3D" parent="." index="275" unique_id=846311127]
