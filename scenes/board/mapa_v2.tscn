@@ -138,6 +138,9 @@
 [ext_resource type="PackedScene" uid="uid://bwimcbl53kr7a" path="res://models/map/Carteles/RutaEvacuacion1.glb" id="136_ae5kf"]
 [ext_resource type="PackedScene" uid="uid://ch3ukxxfo2d1v" path="res://models/map/EstandarteEscuela.glb" id="137_ae5kf"]
 [ext_resource type="PackedScene" uid="uid://xjdcli1m1ism" path="res://models/map/Personas/hombreMegafono.glb" id="138_87kbt"]
+[ext_resource type="PackedScene" uid="uid://bkctghd7fyxth" path="res://models/map/Elementos-pequeños/coco.glb" id="139_274kg"]
+[ext_resource type="PackedScene" uid="uid://ctrvms2snu7wt" path="res://models/map/Alarma.glb" id="140_nol6v"]
+[ext_resource type="PackedScene" uid="uid://qyqlltcjy0ib" path="res://models/map/Extintor.glb" id="141_m1gho"]
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_x5s45"]
 albedo_texture = ExtResource("3_ngcet")
@@ -1068,3 +1071,12 @@ transform = Transform3D(0.85, 0, 0, 0, 0.85, 0, 0, 0, 0.85, -24.286678, 5.402851
 
 [node name="hombreMegafono" parent="." index="276" unique_id=1083284999 instance=ExtResource("138_87kbt")]
 transform = Transform3D(0.37694147, 0, 0.5779404, 0, 0.69, 0, -0.5779404, 0, 0.37694147, -3.407158, 5.333303, -2.7029574)
+
+[node name="coco" parent="." index="277" unique_id=2078344495 instance=ExtResource("139_274kg")]
+transform = Transform3D(0.205, 0, 0, 0, 0.205, 0, 0, 0, 0.205, -22.276588, 4.8771505, 6.791395)
+
+[node name="Alarma" parent="." index="278" unique_id=1739830346 instance=ExtResource("140_nol6v")]
+transform = Transform3D(-0.13124838, 0, -0.061634924, 0, 0.14499998, 0, 0.061634924, 0, -0.13124838, -23.80451, 6.6037736, 17.324879)
+
+[node name="Extintor" parent="." index="279" unique_id=174566813 instance=ExtResource("141_m1gho")]
+transform = Transform3D(0.365, 0, 0, 0, 0.365, 0, 0, 0, 0.365, -23.821346, 5.94809, 14.76132)
