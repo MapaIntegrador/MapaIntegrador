@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://csnuymt5nmbcg"
-path="res://.godot/imported/EstacionBomberos.glb-c66207369f202df9b663ae0a916e9f04.scn"
+uid="uid://2rwxs740glmm"
+path="res://.godot/imported/SeñoraC2.glb-a052e78aa2800e82b4cd6c40477209f2.scn"
 
 [deps]
 
-source_file="res://models/map/EstacionBomberos.glb"
-dest_files=["res://.godot/imported/EstacionBomberos.glb-c66207369f202df9b663ae0a916e9f04.scn"]
+source_file="res://models/map/Personas/SeñoraC2.glb"
+dest_files=["res://.godot/imported/SeñoraC2.glb-a052e78aa2800e82b4cd6c40477209f2.scn"]
 
 [params]
 

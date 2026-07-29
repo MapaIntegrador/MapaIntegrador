@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://3j77l8jexhkg"
-path="res://.godot/imported/flecha.glb-3a908ddcabdb06848462b4652862d836.scn"
+uid="uid://ojb3qkjnkcf3"
+path="res://.godot/imported/niñodelcastillo.glb-ff5f31d1cf36af324ad2aaff957405a3.scn"
 
 [deps]
 
-source_file="res://modelos/Carteles/flecha.glb"
-dest_files=["res://.godot/imported/flecha.glb-3a908ddcabdb06848462b4652862d836.scn"]
+source_file="res://models/map/Personas/niñodelcastillo.glb"
+dest_files=["res://.godot/imported/niñodelcastillo.glb-ff5f31d1cf36af324ad2aaff957405a3.scn"]
 
 [params]
 

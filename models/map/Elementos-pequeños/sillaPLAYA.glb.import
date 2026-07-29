@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://csnuymt5nmbcg"
-path="res://.godot/imported/EstacionBomberos.glb-c66207369f202df9b663ae0a916e9f04.scn"
+uid="uid://cq6buu2we6j7s"
+path="res://.godot/imported/sillaPLAYA.glb-5fa68cd6ccd42febc2b8fa5aee1b6980.scn"
 
 [deps]
 
-source_file="res://models/map/EstacionBomberos.glb"
-dest_files=["res://.godot/imported/EstacionBomberos.glb-c66207369f202df9b663ae0a916e9f04.scn"]
+source_file="res://models/map/Elementos-pequeños/sillaPLAYA.glb"
+dest_files=["res://.godot/imported/sillaPLAYA.glb-5fa68cd6ccd42febc2b8fa5aee1b6980.scn"]
 
 [params]
 

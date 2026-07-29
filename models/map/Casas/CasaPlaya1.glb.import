@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://csnuymt5nmbcg"
-path="res://.godot/imported/EstacionBomberosSinPalmeras.glb-d16bdef6756dbef3e9556182136e89af.scn"
+uid="uid://cqu8y5k0fdkge"
+path="res://.godot/imported/CasaPlaya1.glb-1749f8c62f7b6ac14f701e763e9edb78.scn"
 
 [deps]
 
-source_file="res://models/map/EstacionBomberosSinPalmeras.glb"
-dest_files=["res://.godot/imported/EstacionBomberosSinPalmeras.glb-d16bdef6756dbef3e9556182136e89af.scn"]
+source_file="res://models/map/Casas/CasaPlaya1.glb"
+dest_files=["res://.godot/imported/CasaPlaya1.glb-1749f8c62f7b6ac14f701e763e9edb78.scn"]
 
 [params]
 

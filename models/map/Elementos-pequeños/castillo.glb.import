@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://cgf3eplug4y4f"
-path="res://.godot/imported/CanchaFut_Act.glb-9899465b8038a4478adfa64cfeab0f11.scn"
+uid="uid://iyg51wsjpphf"
+path="res://.godot/imported/castillo.glb-a88e443e6cd414ddd9609d8af3f0ed3e.scn"
 
 [deps]
 
-source_file="res://models/map/cesped/CanchaFut_Act.glb"
-dest_files=["res://.godot/imported/CanchaFut_Act.glb-9899465b8038a4478adfa64cfeab0f11.scn"]
+source_file="res://models/map/Elementos-pequeños/castillo.glb"
+dest_files=["res://.godot/imported/castillo.glb-a88e443e6cd414ddd9609d8af3f0ed3e.scn"]
 
 [params]
 

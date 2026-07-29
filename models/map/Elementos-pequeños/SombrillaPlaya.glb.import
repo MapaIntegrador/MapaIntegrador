@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://csnuymt5nmbcg"
-path="res://.godot/imported/EstacionBomberos.glb-c66207369f202df9b663ae0a916e9f04.scn"
+uid="uid://dhuptqvpmvnna"
+path="res://.godot/imported/SombrillaPlaya.glb-187d846690a5b2ae3859f429b460437d.scn"
 
 [deps]
 
-source_file="res://models/map/EstacionBomberos.glb"
-dest_files=["res://.godot/imported/EstacionBomberos.glb-c66207369f202df9b663ae0a916e9f04.scn"]
+source_file="res://models/map/Elementos-pequeños/SombrillaPlaya.glb"
+dest_files=["res://.godot/imported/SombrillaPlaya.glb-187d846690a5b2ae3859f429b460437d.scn"]
 
 [params]
 
